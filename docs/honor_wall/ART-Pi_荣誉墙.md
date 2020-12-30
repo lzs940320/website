@@ -23,7 +23,7 @@
 | ![Ouxiaolong](figures/Ouxiaolong.jpg) | Ouxiaolong|社区开源爱好者。撰写 [《玩转ART-Pi开发板》](https://blog.csdn.net/bruceoxl/category_10642929.html)。|
 | ![shui](figures/shui.jpg) | ᥬ Z_Tam ᭄ ||
 | ![iysheng](figures/iysheng.jpg) | [iysheng](https://github.com/iysheng) |社區開源愛好者。[RedClock](https://gitee.com/iysheng/redclock) 墨水屏擴展板開發者|
-| ![lzs](figures/lzs.jpg) | LZS||
+| ![lzs](figures/lzs.jpg) | LZS |社区开源爱好者。CSDN编写《ART-Pi项目实战系列》文章; 致力打造出易用稳定的工业设备软件框架。(https://blog.csdn.net/lzs940320/category_9906518.html)|
 
 
 
